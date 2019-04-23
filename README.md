@@ -11,19 +11,7 @@
     <link rel="stylesheet" href="README.css">
 
     <body>
-     
-
-       
-        <form class="form-horizontal">
-            <div class="form-group">
-                <label class="control-label col-sm-2" for="email">Email:tingchen1020@gmail.com</label>
-                <div class="col-sm-10">
-                    <label class="control-label col-sm-2" for="email">Line:tingchen1020</label>
-                    <div class="col-sm-10">
-                        <label class="control-label col-sm-2" for="email">Instagram:tingchen1020</label>
-                    </div>
-                </div>
-        </form>
+    
 
         <!--首頁圖片-->
         <figure>
@@ -152,9 +140,9 @@
 
 
 
-    </body>
+ 
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
 
     <link rel="stylesheet" href="./css/bootstrap.css">
 
-</html>
+
