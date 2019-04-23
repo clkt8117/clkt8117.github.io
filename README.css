@@ -1,0 +1,36 @@
+h2 {
+    border-collapse: separate;
+    border-color: aliceblue;
+    border-style: solid;
+    background-color: aliceblue;
+    background-size: cover;
+    font-size: xx-large;
+    font-weight: 300;
+}
+
+h3 {
+    border-collapse: separate;
+    border-color: aliceblue;
+    border-style: solid;
+    background-color: aliceblue;
+    background-size: cover;
+    font-size: xx-large;
+    font-weight: 300;
+}
+
+h5 {
+    border-collapse: separate;
+    border-color: antiquewhite;
+    border-style: solid;
+    background-color: lemonchiffon;
+    background-size: cover;
+    font-size: x-large;
+    font-weight: 300;
+}
+
+
+}
+text-center {
+    background-color: cornsilk;
+    text-align: center!important;
+}
