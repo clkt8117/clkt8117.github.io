@@ -1,5 +1,5 @@
-# clkt8117.github.io
-<!DOCTYPE html>
+# 侯廷臻個人履歷網頁
+
 <html lang="zh-TW">
 
 <head>
@@ -11,15 +11,9 @@
     <link rel="stylesheet" href="README.css">
 
     <body>
-        <!--上面tital跟聯絡方式-->
-        <nav class="navbar navbar-inverse">
-            <div class="container-fluid">
-                <div class="navbar-header">
-                    <a class="navbar-brand" href="#">侯廷臻個人履歷網頁</a>
-                </div>
+     
 
-            </div>
-        </nav>
+       
         <form class="form-horizontal">
             <div class="form-group">
                 <label class="control-label col-sm-2" for="email">Email:tingchen1020@gmail.com</label>
