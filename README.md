@@ -37,13 +37,7 @@
                     </p>
                     <img src="02.jpg" alt="Image" style="width: 90% ">
                 </div>
-                <div class="col-sm-4">
-                    <h5>擔任志工</h5>
-                    <p>曾經在家扶基金會的營隊擔任隊輔，也擔任志工陪伴關西偏遠社區長者、上街為流浪狗募款等等。擔任志工總會讓我找回一部份遺失的自我，與其說在幫助別人，不如說在幫助自己。</p>
-                    <img src="04.jpg" alt="Image"  style="width: 100% ">
-                </div>
-            </div>
-        </div>
+                
                 <div class="col-sm-4">
                     <h5>公益寫作</h5>
                     <p>我們在認識機構的運作模式後為機構撰寫介紹文。深入認識慈善機構以及弱勢團體後，有了新的價值觀，弱勢團體固然需要大眾資助，但他們更需要的是實現工作權的機會。
@@ -51,6 +45,14 @@
                     <img src="03.jpg" alt="Image" style="width: 90% ">
                 </div>
                 <div class="col-sm-4">
+                    <h5>擔任志工</h5>
+                    <p>曾經在家扶基金會的營隊擔任隊輔，也擔任志工陪伴關西偏遠社區長者、上街為流浪狗募款等等。擔任志工總會讓我找回一部份遺失的自我，與其說在幫助別人，不如說在幫助自己。</p>
+                    <img src="04.jpg" alt="Image"  style="width: 100% ">
+                </div>
+            </div>
+        </div>
+               
+                
 
         <div class="jumbotron">
             <h3>實習經歷</h3>
