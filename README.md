@@ -46,8 +46,7 @@
                 <div class="col-sm-4">
                     <h5>擔任志工</h5>
                     <p>曾經在家扶基金會的營隊擔任隊輔，也擔任志工陪伴關西偏遠社區長者、上街為流浪狗募款等等。擔任志工總會讓我找回一部份遺失的自我，與其說在幫助別人，不如說在幫助自己。</p>
-                    <img src="04.jpg" alt="Image" style="height: 300px;
-                    width: 300px">
+                    <img src="04.jpg" alt="Image"  style="width: 90% ">
                 </div>
             </div>
         </div>
